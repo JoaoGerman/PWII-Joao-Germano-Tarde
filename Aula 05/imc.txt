@@ -1,0 +1,7 @@
+IMC = Peso / Altura^2
+
+Se o IMC estiver menor que 18.5 = Magreza
+Se o IMC estiver maior ou igual que 18.5 e menor que 25 = Classificação: Normal
+Se o IMC estiver maior ou igual que 25 e menor que 30 = Classificação: Obesidade, Grau: I
+Se o IMC estiver maior ou igual que 30 e menor que 40 = Classificação: Obesidade, Grau: II
+Se o IMC estiver maior ou igual que 40 = Classificação: Obesidade Grave, Grau: III
