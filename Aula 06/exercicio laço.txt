@@ -1,0 +1,8 @@
+1 - Faça a iteração no seguinte array:
+[2, 5, 7, 8, 10, 18, 30, 37, 38, 60]
+E exiba se o número da vez é par ou impar na tela. Exemplo:
+
+2 é par;
+5 é impar;
+
+
