@@ -1,6 +1,6 @@
 <?php
     $x = 5;
-    $y = "John"
+    $y = "John";
 
     echo $x;
     echo "<br>";
